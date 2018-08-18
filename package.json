@@ -1,0 +1,21 @@
+{
+  "name": "beyonic",
+  "version": "0.0.1",
+  "description": "A node module for interracting with Beyonic [https://beyonic.com] APIs",
+  "main": "beyonic.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "skyline",
+    "sms",
+    "text",
+    "message"
+  ],
+  "author": "Abdu Ssekalala <assekalala@gmail.com>",
+  "license": "MIT",
+  "repository": "https://github.com/assekalala/beyonic-node.git",
+  "dependencies": {
+    "request": "2.81.0"
+  }
+}
